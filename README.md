@@ -74,8 +74,11 @@
 
 bank-churn-prediction/
 ├── data/ # 原始資料與處理後資料
+
 ├── images/ # 圖表與模型輸出圖
+
 ├── notebook/ # Jupyter Notebook 主程式
+
 └── README.md # 專案說明文件
 
 
