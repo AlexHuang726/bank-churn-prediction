@@ -45,13 +45,22 @@
 
 ### 🎯 模型比較圖：
 
-<img src="images/model_comparison.png" width="600" alt="Model Comparison Chart">
+![Model Comparison Chart](images/model_comparison.png)
+
 
 ### 🔵 Logistic Regression 混淆矩陣：
-<img src="images/confusion_logistic.png" width="400" alt="Logistic Confusion Matrix">
+
+![Logistic Confusion Matrix](images/confusion_logistic.png)
+
 
 ### 🟢 Random Forest 混淆矩陣：
-<img src="images/confusion_rf.png" width="400" alt="Random Forest Confusion Matrix">
+
+![Random Forest Confusion Matrix](images/confusion_rf.png)
+
+### 🧠 Logistic Regression 特徵重要性：
+
+![Feature Importance](images/feature_importance_logistic.png)
+
 
 ---
 
