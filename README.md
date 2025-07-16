@@ -41,28 +41,24 @@
 
 ---
 
-## 📊 成效亮點
+## 成效亮點
 
-### 🎯 模型比較圖：
+### 📊 模型比較圖：
 
-![Model Comparison Chart](images/model_comparison.png)
-
+![Model Comparison](model_comparison.png)
 
 ### 🔵 Logistic Regression 混淆矩陣：
 
-![Logistic Confusion Matrix](images/confusion_logistic.png)
-
+![Logistic Confusion Matrix](confusion_logistic.png)
 
 ### 🟢 Random Forest 混淆矩陣：
 
-![Random Forest Confusion Matrix](images/confusion_rf.png)
+![Random Forest Confusion Matrix](confusion_rf.png)
 
-### 🧠 Logistic Regression 特徵重要性：
+### 📌 特徵重要性（以 Logistic Regression 為例）：
 
-![Feature Importance](images/feature_importance_logistic.png)
+![Feature Importance](feature_importance_logistic.png)
 
-
----
 
 ## ✅ 結論與應用建議
 
@@ -91,5 +87,4 @@ bank-churn-prediction/
 Email: [obelisk4422@hotmail.com](mailto:obelisk4422@hotmail.com)
 GitHub: [AlexHuang726](https://github.com/AlexHuang726)
 
-## 📁 專案結構
 
