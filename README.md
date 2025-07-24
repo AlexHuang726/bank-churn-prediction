@@ -10,9 +10,13 @@
 ## 📁 專案結構
 
 bank-churn-prediction/
+
 ├── data/ # 原始資料與處理後資料
+
 ├── images/ # 圖表與模型輸出圖
+
 ├── notebook/ # Jupyter Notebook 主程式
+
 ├── README.md # 專案說明文件
 
 ---
@@ -78,13 +82,13 @@ bank-churn-prediction/
 
 
 ### 🔍 模型比較圖：
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](notebook/model_comparison.png)
 
 ### 📊 Logistic Regression 混淆矩陣：
-![Logistic Confusion Matrix](images/confusion_logistic.png)
+![Logistic Confusion Matrix](notebook/confusion_logistic.png)
 
 ### 🌲 Random Forest 混淆矩陣：
-![RF Confusion Matrix](images/confusion_rf.png)
+![RF Confusion Matrix](notebook/confusion_rf.png)
 
-### 🎯 特徵重要性分析（以 Logistic 為例）：
-![Feature Importance](images/feature_importance_logistic.png)
+### 🔍 特徵重要性分析（以 Logistic 為例）：
+![Feature Importance](notebook/feature_importance_logistic.png)
