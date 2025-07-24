@@ -83,13 +83,14 @@ bank-churn-prediction/
 
 ### 🔍 模型比較圖：
 ### 模型比較圖：
-![Model Comparison](notebook/model_comparison.png)
+![Model Comparison](model_comparison.png)
 
 ### Logistic Regression 混淆矩陣：
-![Logistic Confusion Matrix](notebook/confusion_logistic.png)
+![Logistic Confusion Matrix](confusion_logistic.png)
 
 ### Random Forest 混淆矩陣：
-![RF Confusion Matrix](notebook/confusion_rf.png)
+![RF Confusion Matrix](confusion_rf.png)
 
 ### 特徵重要性分析（以 Logistic 為例）：
-![Feature Importance](notebook/feature_importance_logistic.png)
+![Feature Importance](feature_importance_logistic.png)
+
