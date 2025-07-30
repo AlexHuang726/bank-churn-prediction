@@ -114,5 +114,7 @@ bank-churn-prediction/
 ![Feature Importance](feature_importance_logistic.png)
 
 
+📁 資料來源：
+本專案使用之資料為 Kaggle 平台之開源資料集 [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)，包含約 10,000 筆客戶資訊
 
 
