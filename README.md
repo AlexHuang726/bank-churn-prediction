@@ -1,4 +1,4 @@
-# bank-churn-prediction  
+# Bank-Churn-Prediction  
 銀行客戶流失預測專案  
 📊 **Bank Customer Churn Prediction**
 
