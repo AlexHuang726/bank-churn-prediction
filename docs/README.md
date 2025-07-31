@@ -21,4 +21,4 @@
 - 分類分組視覺化、交叉分析篩選器
 
 ## 📷 儀表板擷圖
-![dashboard](./images/dashboard_fullview.png)
+![dashboard](./dashboard_fullview.png)
